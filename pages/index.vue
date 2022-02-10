@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+  <Home />
 </template>
 
 <script lang="ts">
@@ -11,3 +11,8 @@ export default Vue.extend({
   name: 'IndexPage',
 })
 </script>
+<style>
+html, body {
+	height: 100%;
+}
+</style>
