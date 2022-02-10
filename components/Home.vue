@@ -31,7 +31,7 @@ export default {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url('@/static/banner.jpeg') center #000;
+	background: url('/banner.jpeg') center #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
